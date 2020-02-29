@@ -1,4 +1,4 @@
-This is the code for the poster "Prediction of Stock Price Movements using NLP and Financial Data" presented in the South East Asian Machine Learning Conference. 
+## This is the code for the poster "Prediction of Stock Price Movements using NLP and Financial Data" presented in the South East Asian Machine Learning Conference. 
 
 I will attempt to predict the movement of the NIFTY index in the next trading session by learning from historical data. 
 Other than the standard OLHCV (Open, Low, High, Close, Volume) data obtained from the National Stock Exchange website, I have calculated the values of a number of indicators:
